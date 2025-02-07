@@ -11,6 +11,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        'custom-gradient': 'linear-gradient(120deg, #e0c3fc 22%, #fff 36%, #8ec5fc 74%)',
+      }
     },
   },
   plugins: [],
